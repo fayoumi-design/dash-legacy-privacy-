@@ -1,6 +1,6 @@
 # Privacy Policy — Dash Legacy: City Run
 
-**Last updated:** [18-9-2026]
+**Last updated:** [23-9-2026]
 
 This policy explains how Dash Legacy: City Run ("the App", "we", "us") handles information when you use it.
 
